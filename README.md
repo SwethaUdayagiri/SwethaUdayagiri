@@ -2,7 +2,7 @@
 
 <a href="https://linkedin.com/in/swetha-udayagiri-01aa8a238/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:02swethamohan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href=#><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+<a href="https://drive.google.com/file/d/1ZQ7_DULGxmdwkICKUL8anjjhPAP_d5Xf/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
 #### About Me ?
 
